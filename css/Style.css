@@ -1,0 +1,34 @@
+body {
+	margin: auto;
+	width: 1000px;
+	background-color: yellow;
+}
+
+header {
+	background-color: green;
+	overflow: hidden;
+	margin: 20px auto;
+}
+
+header h1 {
+	margin: 0 0 0 0;
+	float: left;
+}
+
+header li {
+	display: inline;
+	float: right;
+	padding: 0 10px;
+}
+
+aside {
+	float: left;
+	width: 300px;
+	background-color: gray;
+}
+
+body .container {
+	float: right;
+	width: 700px;
+	background-color: purple;
+}
